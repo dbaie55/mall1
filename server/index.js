@@ -30,5 +30,5 @@ app.use('/api',router)
 
 
 app.listen(8888,()=>{
-    console.log(8888);
+    console.log("Server is running at https://127.0.0.1:88888");
 })
